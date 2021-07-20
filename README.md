@@ -1,4 +1,4 @@
-# BoomBoomOnline
+# Boom Boom Online
 
 the intention on this repository is to archive the Releases of Jasony's game Boom Boom Online (Just because i didn't have anything better to do)
 
